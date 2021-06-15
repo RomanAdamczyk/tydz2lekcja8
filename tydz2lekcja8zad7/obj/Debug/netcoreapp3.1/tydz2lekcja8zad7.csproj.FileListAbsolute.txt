@@ -1,0 +1,13 @@
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.exe
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.deps.json
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.runtimeconfig.json
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.runtimeconfig.dev.json
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.dll
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\bin\Debug\netcoreapp3.1\tydz2lekcja8zad7.pdb
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.AssemblyInfoInputs.cache
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.AssemblyInfo.cs
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.csproj.CoreCompileInputs.cache
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.dll
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.pdb
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.genruntimeconfig.cache
+D:\KursDotNet\zadania\tydz2\tydz2lekcja8\tydz2lekcja8zad7\obj\Debug\netcoreapp3.1\tydz2lekcja8zad7.csprojAssemblyReference.cache
